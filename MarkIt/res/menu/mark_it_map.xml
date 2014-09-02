@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item 
+        android:id="@+id/markit_check"
+        android:title="@string/check_button_title"
+        android:icon="@drawable/ic_dialog_map"
+        android:showAsAction="always" />
+
+    <item
+        android:id="@+id/markit_history"
+        android:title="@string/history_of_checks"
+        android:icon="@drawable/ic_dialog_dialer"
+        android:showAsAction="always" />
+</menu>
